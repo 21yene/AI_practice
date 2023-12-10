@@ -1,6 +1,7 @@
 {
   "name": "ASTUIF",
   "version": "1.0.0",
+  "author":"abraham mekuria",
   "description": "A student interactive feed system",
   "main": "server.js",
   "scripts": {
